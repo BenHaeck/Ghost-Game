@@ -1,0 +1,23 @@
+tileset = 1;
+
+noteText =Space to jump
+shift or K to fly
+WASD or arrow keys to move;
+
+# p: player, #: wall, e: Enemy, T: turret, ^: Trap
+# f: flybox, *: spikes, X: exit
+
+layout =
+###############
+#             #
+#             #
+#            X#
+#####      ####
+#             #
+#             #
+#             #
+#             #
+#     ####    #
+#   N ####    #
+# p #######   #
+###############;

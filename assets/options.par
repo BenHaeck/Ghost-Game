@@ -1,0 +1,4 @@
+
+#screen texture settings
+screenWidth = 600;
+screenHeight = 400;

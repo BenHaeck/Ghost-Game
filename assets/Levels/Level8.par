@@ -1,0 +1,27 @@
+noteText=The best way to track ghosts is through noise
+traps. All you need to do to make them is
+string up some cans, and you have a very
+effective ghost detector. Just make
+sure you don't touch in them yourself,
+because they can also hear them.;
+
+tileset = 0;
+
+layout =
+################
+#T  ^  ^^  /  ^#
+#   ^^  ^  /   #
+#   ^^  ## *   #
+##  ****##**   #
+#  ##     *    #
+# ###     *### #
+# #X      *  # #
+#^#/   T  *^  /#
+###*      *##  #
+###       *    #
+#         *    #
+#**********   ##
+#   //     ^^ ##
+#   ^        ^##
+# p ^ N ^^    ##
+################
