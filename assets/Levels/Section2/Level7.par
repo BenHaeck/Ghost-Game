@@ -1,0 +1,21 @@
+noteText=Some ghosts react with terror upon dying,
+causing them too lash out at their surroundings
+after death out of fear that they might
+be a threat.
+
+Because they won't seek you out,
+The best way to deal with these kinds of
+ghosts is to avoid them.;
+
+tileset = 1;
+
+layout =
+################      #####
+#       l    ### l    #####
+#            ###X  ** #####
+#            l ###*T* #####
+#                l  l #####
+#  l         #        #####
+#       # T  #####    #####
+# p  N ##    ##############
+#########    ##############

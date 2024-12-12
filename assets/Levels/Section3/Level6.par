@@ -1,0 +1,15 @@
+tileset = 0;
+layout =
+###############################
+## l   gg l   l  ^   l      l #
+##     gg                     #
+##  X  gg^  gggg   gg#####    #
+########*************######ggg#
+#####  l   ####     ^^^^l l^^^#
+#E l   gggggggl       ^^      #
+#      g^   ^g  l      ^      #
+#      g     g      ^     ^ggg#
+#      gl f lgg####ggggggggggg#
+#      g     gg##*************#
+# p  ^ g^   ^gg               #
+###### gggggggg               #;

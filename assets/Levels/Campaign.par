@@ -1,0 +1,12 @@
+
+printLevelNames = 1;
+
+startAt = 20;
+
+#Levels = Test/TestLevel, Test/TestLevel2, Test/TestLevel3;
+Levels = Section1/Level1, Section1/Level2, Section1/Level3, Section1/Level4, Section1/Level5,
+
+Section2/Level1, Section2/Level2, Section2/Level3, Section2/Level4,
+Section2/Level5, Section2/Level6, Section2/Level7, Section2/Level8,
+
+Section3/Level1, Section3/Level2, Section3/Level3, Section3/Level4, Section3/Level5, Section3/Level6, Section3/Level7, Section3/Level8;
